@@ -26,6 +26,7 @@ roll <die type> <number of dice> <+|-> <integer>
 
 example input:
 >$ roll 3 4
+
 > 3 + 2 + 4 =
 
 > 9
@@ -33,6 +34,7 @@ example input:
 This rolled 3 d4 and displayed the sum
 
 $ roll 20 + 5
+
 > 14 + 5 =
 
 > 19
