@@ -5,7 +5,9 @@ Simple command-line dice roller for linux. I made this to play D&amp;D so have f
 # INSTALLATION:
 Run the commands:
 >$ make
+
 >$ make install
+
 >$ make clean
 
 This will compile the program, copy it into $BINDIR (defaults to /usr/local/bin, so change in makefile if you want it elsewhere), then remove the executale from the working directory.
