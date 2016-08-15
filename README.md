@@ -33,7 +33,7 @@ example input:
 
 This rolled 3 d4 and displayed the sum
 
-$ roll 20 + 5
+>$ roll 20 + 5
 
 > 14 + 5 =
 
