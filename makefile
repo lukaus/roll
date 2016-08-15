@@ -4,7 +4,7 @@ EXEC = roll
 PREFIX = /usr/local
 BINDIR = $(PREFIX)/bin
 
-p1: $(OBJS)
+roll: $(OBJS)
 	$(CC) $(OBJS) -o $(EXEC)
 
 install:
